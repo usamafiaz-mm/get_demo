@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">get_demo</string>
+    <string name="timeout_demo">Timeout Demo</string>
+</resources>
